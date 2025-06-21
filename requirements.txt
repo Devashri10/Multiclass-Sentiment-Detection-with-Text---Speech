@@ -3,6 +3,6 @@ tensorflow-io-gcs-filesystem==0.31.0
 streamlit==1.40
 numpy==1.26.3
 librosa==0.11.0
-pickle
+
 scikit-learn==1.7.0
 joblib==1.4.2
