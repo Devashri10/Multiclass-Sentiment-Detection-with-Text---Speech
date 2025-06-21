@@ -1,0 +1,7 @@
+tensorflow
+librosa
+streamlit
+numpy
+pickle
+joblib
+sklearn
