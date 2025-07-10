@@ -21,7 +21,7 @@ This project aims to detect **emotions** (such as happy, sad, angry, etc.) from 
 ## Dataset Used
 
 - `train.txt`: Contains text samples with emotion labels.
-- [TESS Dataset]([https://tspace.library.utoronto.ca/handle/1807/24487](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)): Audio recordings labeled by emotion in folders.(took this Audio Dataset From Kaggle
+- [TESS Dataset]([https://tspace.library.utoronto.ca/handle/1807/24487](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)): Audio recordings labeled by emotion in folders.(took this Audio Dataset From Kaggle)
 
 ---
 
