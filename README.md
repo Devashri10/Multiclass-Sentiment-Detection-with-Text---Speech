@@ -39,3 +39,9 @@ This project aims to detect **emotions** (such as happy, sad, angry, etc.) from 
 
 ```bash
 pip install numpy pandas scikit-learn librosa xgboost matplotlib seaborn tensorflow
+
+## Live Demo
+
+Try the web app here:  
+[Multiclass Sentiment Detection Web App](https://multiclass-sentiment-detection-with-text-and-speech.streamlit.app/)
+
